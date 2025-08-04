@@ -1,0 +1,62 @@
+# Interview Questions – Task 01: Data Cleaning & Preprocessing
+
+## 1. What are missing values and how do you handle them?
+
+### Answer:
+Missing values are gaps in the dataset where no data is recorded. They can be handled using deletion (`dropna()`) or imputation (`fillna()`), depending on context.
+
+---
+
+## 2. How do you treat duplicate records?
+
+### Answer:
+By using `.drop_duplicates()` in Pandas or Excel’s “Remove Duplicates” function.
+
+---
+
+## 3. Difference between dropna() and fillna() in Pandas?
+
+### Answer:
+* `dropna()` removes rows/columns with null values.
+* `fillna()` replaces nulls with specified values (e.g., mean, median, or forward fill).
+
+---
+
+## 4. What is outlier treatment and why is it important?
+
+### Answer:
+Outlier treatment removes extreme values that skew data analysis. It ensures the model isn’t biased or distorted.
+
+---
+
+## 5. Explain the process of standardizing data.
+
+### Answer:
+Standardizing involves formatting text (e.g., making lowercase), date formats, and column names uniformly.
+
+---
+
+## 6. How do you handle inconsistent data formats (e.g., date/time)?
+
+### Answer:
+By using `pd.to_datetime()` to convert all dates to a standard format.
+
+---
+
+## 7. What are common data cleaning challenges?
+
+### Answer:
+* Inconsistent labels
+* Typos in categories
+* Null-heavy columns
+* Misformatted dates or strings
+* Encoding issues
+
+---
+
+## 8. How can you check data quality?
+
+### Answer:
+Using `.info()`, `.describe()`, `.isnull().sum()`, value counts, and type checks (`df.dtypes`).
+
+---
