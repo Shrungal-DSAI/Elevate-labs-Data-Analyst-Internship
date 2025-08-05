@@ -1,0 +1,82 @@
+# 📊 Interview Questions – Task 2: Data Visualization and Storytelling
+
+## 1. What is the importance of data visualization?
+
+Data visualization helps in converting large and complex datasets into visual representations like charts and graphs, making the data easier to understand, interpret, and act upon. It enables stakeholders to identify trends, patterns, and outliers quickly, facilitating better decision-making.
+
+---
+
+## 2. When do you use a pie chart vs bar chart?
+
+- **Pie Chart**: Best for showing parts of a whole (percentages or proportions) when categories are few (ideally under 5).
+- **Bar Chart**: Ideal for comparing quantities across different categories. It is more accurate and scalable than pie charts, especially with many categories.
+
+---
+
+## 3. How do you make visualizations more engaging?
+
+- Use color sparingly to highlight key insights.
+- Add interactivity (filters, tooltips, drill-downs).
+- Keep design clean and clutter-free.
+- Focus on the message, not just the graphic.
+- Use storytelling structure (Intro, Insights, Call to Action).
+
+---
+
+## 4. What is data storytelling?
+
+Data storytelling combines data, visuals, and narrative to communicate insights effectively. It adds context and meaning to raw numbers, guiding the audience through a journey that leads to understanding and informed decisions.
+
+---
+
+## 5. How do you avoid misleading visualizations?
+
+- Use appropriate chart types for your data.
+- Always include labels, units, and legends.
+- Maintain consistent axis scales.
+- Avoid truncating axes (e.g., y-axis not starting from zero when inappropriate).
+- Don’t use excessive 3D effects or distortions.
+
+---
+
+## 6. What are best practices in dashboard design?
+
+- Define a clear goal for the dashboard.
+- Use layout hierarchy (KPI summary first, then deep dives).
+- Group related charts together.
+- Use filters and slicers for interactivity.
+- Optimize for readability and responsiveness.
+- Maintain visual consistency (fonts, colours, spacing).
+
+---
+
+## 7. What tools have you used for visualization?
+
+I have used:
+- **Power BI** – for business intelligence dashboards, DAX calculations, and KPI tracking.
+- **Tableau** – for interactive storytelling, trend analysis, and custom visual layouts.
+- **Excel** – for quick charts, pivot tables, and heat maps.
+
+---
+
+### 8. How do you implement storytelling in a dashboard?
+> - Follow a **narrative structure**: Context → Insights → Recommendation  
+> - Use **visual hierarchy** to direct attention  
+> - Align visuals with business questions  
+> - Highlight anomalies and actionable metrics
+
+### 9. How do Power BI and Tableau differ?
+| Feature | Tableau | Power BI |
+|--------|---------|----------|
+| Learning Curve | Steep | Moderate |
+| Speed | Faster with large data | Slower with large data |
+| Customization | High | Moderate |
+| Cost | Expensive | Cheaper (with free tier) |
+| Ecosystem | Visual-first | Microsoft-integrated |
+
+
+### 10. How do you make dashboards more accessible?
+> - Use colour-blind friendly palettes  
+> - Add labels, legends, and tooltips  
+> - Use alt text or annotations  
+> - Maintain contrast and font clarity
