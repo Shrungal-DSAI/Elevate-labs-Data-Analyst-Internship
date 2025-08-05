@@ -5,15 +5,17 @@ This repository contains my daily submissions for the **Elevate Labs Data Analys
 
 ## 🗓️ Daily Task Table
 
-| Day | Task Name | Tools Used | Status | GitHub Folder |
-|-----|-----------|------------|--------|---------------|
-| 1   | Data Cleaning & Preprocessing | Excel, Python | ✅ Completed | [Day 01](./Day_01_Data_Cleaning) |
-| 2   | TBD | TBD | 🔄 Pending | [Day 02](./day_02_task_name) |
-| …   | … | … | … | … |
+| Day | Task Name                    | Tools Used                      | Status       | GitHub Folder                                 |
+|-----|------------------------------|----------------------------------|--------------|-----------------------------------------------|
+| 1   | Data Cleaning & Preprocessing | Excel, Python                    | ✅ Completed | [Day 01](./Day_01_Data_Cleaning)              |
+| 2   | Data Visualization & Storytelling | Tableau, Power BI | ✅ Completed | [Day 02](./Day_02_Data_Visualization)         |
+| …   | …                            | …                                | …            | …                                             |
 
 ## 🛠️ Skills Practiced
 - Data cleaning, preprocessing
 - Excel formulae and filters
 - Python (Pandas, NumPy)
+- Power BI & Tableau dashboards
+- Data storytelling & design thinking
 - Git & GitHub for version control
 - Problem-solving & debugging
