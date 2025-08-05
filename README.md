@@ -7,7 +7,7 @@ This repository contains my daily submissions for the **Elevate Labs 15-Day Data
 
 | Day | Task Name | Tools Used | Status | GitHub Folder |
 |-----|-----------|------------|--------|---------------|
-| 1   | Data Cleaning & Preprocessing | Excel, Python | ✅ Completed | [Day 01](./day_01_data_cleaning) |
+| 1   | Data Cleaning & Preprocessing | Excel, Python | ✅ Completed | [Day 01](./Day_01_Data_Cleaning) |
 | 2   | TBD | TBD | 🔄 Pending | [Day 02](./day_02_task_name) |
 | …   | … | … | … | … |
 
