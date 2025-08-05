@@ -1,12 +1,10 @@
 # 📊 Day 2 – Data Visualization & Storytelling
 
-## 📝 Objective
-
-To analyze the Superstore dataset using Tableau and Power BI by creating visually compelling dashboards that provide meaningful business insights. The focus is to practice **data storytelling**, enhance interpretability, and apply best practices in visualization.
+### 📝 Objective
+To analyze the Superstore dataset using Tableau and Power BI by creating visually compelling dashboards that provide meaningful business insights. The focus is to practice data storytelling, enhance interpretability, and apply best practices in visualization.
 
 ---
 
-```markdown
 # 📊 Dashboards Created
 
 This document provides a summary of the dashboards and visualizations created, including the tools used, components, key insights, and the steps followed in the process.
@@ -72,4 +70,3 @@ This document provides a summary of the dashboards and visualizations created, i
 # 📚 Interview Preparation
 
 -   Refer to `Interview_Questions.md` for common questions and answers related to data visualization and dashboard design.
-```
