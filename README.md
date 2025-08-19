@@ -1,7 +1,7 @@
-# Elevate Labs – Data Analyst Internship 🧠
+# Data Analyst Tasks 🧠
 
 ## 📌 Overview
-This repository contains my daily submissions for the **Elevate Labs Data Analyst Internship** program. Each folder includes the original dataset, cleaned/processed outputs, Python/Excel files, and answers to interview prep questions.
+This repository contains my daily submissions for the **Data Analyst Tasks** program. Each folder includes the original dataset, cleaned/processed outputs, Python/Excel files, and answers to interview prep questions.
 
 ## 🗓️ Daily Task Table
 
